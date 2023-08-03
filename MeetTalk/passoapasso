@@ -1,0 +1,6 @@
+cd Desktop
+mysql -u root -p
+create database meettalk;
+use meettalk;
+source MeetTalk.sql;
+
